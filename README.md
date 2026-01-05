@@ -1,4 +1,4 @@
-# Flutter Credit/Debit Card Data Extrator using Google ML-Kit
+# Flutter Credit/Debit Card Data Extractor using Google ML-Kit
 
 Flutter application designed to scan credit and debit cards using the device's camera. It leverages Google's ML Kit for on-device text recognition to automatically extract card numbers and expiry dates.
 
@@ -30,8 +30,8 @@ This project relies on the following key Flutter plugins:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Dinesh-Sowndar/flutter_ml_credit_card_data_extrator.git
-    cd flutter_ml_credit_card_data_extrator
+    git clone https://github.com/Dinesh-Sowndar/flutter_ml_credit_card_data_extractor.git
+    cd flutter_ml_credit_card_data_Extractor
     ```
 
 2.  **Install dependencies:**
