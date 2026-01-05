@@ -2,6 +2,11 @@
 
 Flutter application designed to scan credit and debit cards using the device's camera. It leverages Google's ML Kit for on-device text recognition to automatically extract card numbers and expiry dates.
 
+## 🎥 ScreenShot
+
+https://github.com/user-attachments/assets/838a63f4-9b7e-4709-a68f-2481868735cb
+
+
 ## 🚀 Features
 
 -   **Real-time Scanning**: Scans cards instantly using the device camera.
