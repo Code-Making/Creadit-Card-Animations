@@ -14,10 +14,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        colorScheme: .fromSeed(
-          seedColor: Colors.deepPurple,
-          primary: Colors.indigoAccent,
-        ),
+        // colorScheme: .fromSeed(
+        //   seedColor: Colors.deepPurple,
+        //   primary: Colors.indigoAccent,
+        // ),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
             backgroundColor: Colors.indigoAccent,
